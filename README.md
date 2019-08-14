@@ -5,9 +5,11 @@ The x-challenge is where a program takes an input and out puts an X with the sam
 For example:
 
 An input of 3 would give:
+'''
 X X
  X
 X X
+'''
 
 
 An input of 5 would give:
