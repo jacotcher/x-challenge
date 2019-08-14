@@ -6,7 +6,6 @@ public class HyperJar {
       for(int i = 1; i<=input; i++) {
           System.out.println();
           for(int j = 1; j<=input; j++) {
-              int test = 0;
               if(j==i){
                   System.out.print("X");
               }
